@@ -34,3 +34,11 @@ iframe#tela{
     height: 470px;
     width: 265px;
 }
+section#redes{
+    position: relative;
+    background-color: aqua;
+    height: 400px;
+    width: 80px;
+    left: 100%;
+    transform: translate(-100%);
+}
